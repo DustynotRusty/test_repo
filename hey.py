@@ -1,2 +1,2 @@
 print('Hello')
-print('New change in repository)
+print('New change in repository')
